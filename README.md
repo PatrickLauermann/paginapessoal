@@ -1,2 +1,0 @@
-# paginapessoal
-Minha página pessoal
